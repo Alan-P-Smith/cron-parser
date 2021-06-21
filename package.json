@@ -1,0 +1,17 @@
+{
+  "name": "cron-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "cron-parser": "./index.js"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
